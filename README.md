@@ -1,5 +1,8 @@
 # subscription-management-system
 
+please rename the .env-example file to .env
+this file has been included for convinience.
+
 # With Docker
 
 ## Build and start containers
