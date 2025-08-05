@@ -1,0 +1,15 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
+
+requests
+
+celery
+redis
+django-celery-beat
+
+mysqlclient
+
+gunicorn
+whitenoise
