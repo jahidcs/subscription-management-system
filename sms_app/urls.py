@@ -8,7 +8,7 @@ from .views import (
 
 urlpatterns = [
     path('subscribe/', SubscribeView.as_view(), name='subscribe'),
-    path('subscribtions/', SubscriptionListView.as_view(), name='subscribtion-list'),
+    path('subscriptions/', SubscriptionListView.as_view(), name='subscribtion-list'),
     path('cancel/', SubscriptionCancelView.as_view(), name='cancel-subscription'),
     path('exchange-rate/', ExchangeRateLatestView.as_view(), name='exchange-rate-latest'),
 ]
